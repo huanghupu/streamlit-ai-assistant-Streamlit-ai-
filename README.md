@@ -1,6 +1,6 @@
 # RailwayAI - DeepSeek-V4 网页AI智能助手
 ## 项目简介
-本项目是轻量化网页端AI对话工具，Python+Streamlit搭建可视化交互页面，**核心接入DeepSeek-V4系列大模型API**，无需前端开发基础，一行命令启动本地网页。
+本项目是轻量化网页端AI对话工具，Python+Streamlit搭建可视化交互页面，核心接入DeepSeek-V4系列大模型API，无需前端开发基础，一行命令启动本地网页。
 
 
 ## 核心功能
@@ -20,6 +20,11 @@
 终端进入项目根目录执行：
 pip install -r requirements.txt
 
+## 功能截图预览
+### 1. 主对话页面
+![程序首页主界面](screenshot of operation/main_page.png)
+
+
 ### 2. 安装全部依赖
 填入你的 DeepSeek 个人 API Key，无需额外配置文件。
 
@@ -28,3 +33,5 @@ pip install -r requirements.txt
 streamlit run 1/03.ai_partner_main.py
 
 ## 页面展示
+程序首页主界面(screenshot of operation/1.png)
+设置AI名字和语气(screenshot of operation/2.png)
