@@ -20,11 +20,6 @@
 终端进入项目根目录执行：
 pip install -r requirements.txt
 
-## 功能截图预览
-### 1. 主对话页面
-![程序首页主界面](screenshot of operation/main_page.png)
-
-
 ### 2. 安装全部依赖
 填入你的 DeepSeek 个人 API Key，无需额外配置文件。
 
@@ -32,6 +27,9 @@ pip install -r requirements.txt
 终端进入项目根目录执行：
 streamlit run 1/03.ai_partner_main.py
 
-## 页面展示
-程序首页主界面(screenshot of operation/1.png)
-设置AI名字和语气(screenshot of operation/2.png)
+## 功能截图预览
+### 1. 程序首页主界面
+![程序首页主界面](screenshot of operation/1.png)
+
+### 2. 设置AI名字和语气界面
+![设置AI名字和语气](screenshot of operation/2.png)
