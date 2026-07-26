@@ -32,4 +32,4 @@ streamlit run 1/03.ai_partner_main.py
 <img src="screenshot of operation/1.png" width="750">
 
 ### 2. 设置AI名字和语气界面
-<img src="screenshot of operation/2.png" width="750">
+<img src="screenshot of operation/9F2A2E13-7C5F-4E11-9C52-8245F3F48928.png" width="750">
